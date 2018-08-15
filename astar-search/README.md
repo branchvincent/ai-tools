@@ -1,6 +1,7 @@
 # A* Search Algorithm
+This is a custom implementation of the [A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm) along with two example applications. 
 
-## General Setup
+## Setup
 Python 2.7.13 was chosen as the programming language for this assignment. In addition to Python2, the `numpy` package is also required. This can be installed, if not already, via the following command:
 ```python
 pip install -r requirements.txt
